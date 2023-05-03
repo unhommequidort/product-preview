@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://unhommequidort.github.io/qr-code-component/](https://unhommequidort.github.io/product-preview/)
+- Live Site URL: [https://unhommequidort.github.io/product-preview/](https://unhommequidort.github.io/product-preview/)
 
 ## My process
 
