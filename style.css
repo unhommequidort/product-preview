@@ -40,7 +40,7 @@ p {
 .card {
   width: 21.4375rem;
   border-radius: 0.625rem;
-  background-color: var(--white);
+  background-color: #fff;
   margin: 2rem 0;
 }
 .card-image-container {
