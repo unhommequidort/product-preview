@@ -134,6 +134,7 @@ p {
   }
   .overline {
     margin: 0 0 1.25rem 0;
+    line-height: 0.914375rem;
   }
   .description {
     margin: 1.5rem 0 0 0;
